@@ -80,7 +80,7 @@ public class Test {
 							System.out.println("Status  : Student Existed");
 							System.out.println("Student Details ");
 							System.out.println("-------------------------------");
-							System.out.print("Student Id      : " + std.getSid());
+							System.out.println("Student Id      : " + std.getSid());
 							System.out.println("Student Name    : " + std.getsName());
 							System.out.println("Student Address : " + std.getsAddr());
 						}
