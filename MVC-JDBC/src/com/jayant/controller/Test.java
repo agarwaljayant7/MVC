@@ -135,7 +135,7 @@ public class Test {
 						}
 						break;
 					case 5:
-						System.out.println("********Thank you for using this application, Visit again ********");
+						System.out.println("******** Thank you for using this application, Visit again ********");
 						ConnectionFactory.close();
 						System.exit(0);
 						break;
