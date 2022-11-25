@@ -12,7 +12,6 @@ public class Test {
 	static {
 		try {
 			Class.forName("com.jayant.factories.ConnectionFactory");
-//			Class.forName("com.jayant.factories.StudentServiceFactory");
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
